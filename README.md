@@ -8,7 +8,7 @@
 3. if we find the 'V' sign then we will delete it and write 'W' sign in its place.
 4. going back to the start point for a steps we counted.
 i. if we see 'W' sign - we're done.
-  if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
+ii. if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
 ![](parking problem.gif)  
 
 
