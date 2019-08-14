@@ -7,7 +7,7 @@
 2. continue with the circular parking until we find the 'V' sign and count the number of cars we passed.
 3. if we find the 'V' sign then we will delete it and write 'W' sign in its place.
 4. going back to the start point for a steps we counted.
-4.1 if we see 'W' sign - we're done.
+4.1. if we see 'W' sign - we're done.
 4. if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
 
 
