@@ -9,6 +9,7 @@
 4) going back to the start point for a steps we counted.
   if we see 'W' sign - we're done.
   if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
+![](parking problem.gif)  
 
 
 
