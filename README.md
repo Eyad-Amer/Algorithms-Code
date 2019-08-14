@@ -3,8 +3,8 @@
 ## Parking Problem algorithm.
 
 1. asdfadf
- 1. dfsd
- 2. ddd
+ i. dfsd
+ ii. ddd
 2. aaa
 
 - Description: The researcher must count how many cars are in a circular parking.
