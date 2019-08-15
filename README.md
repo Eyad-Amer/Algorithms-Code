@@ -1,5 +1,5 @@
 # Algorithms Code - Java
-# All algorithms implemented in Java (for education)
+## All algorithms implemented in Java (for education)
 This project has more then 30 algorithms code in java:
 ## Parking Problem algorithm.
 - Description: The researcher must count how many cars are in a circular parking.
