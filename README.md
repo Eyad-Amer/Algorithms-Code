@@ -53,7 +53,7 @@ Among m, n, k, p, q, the first two are properties of the given list. If we can s
 ### Example:
 ![ezgif-1-beef2379ac93](https://user-images.githubusercontent.com/40535130/63119456-e3df8b80-bfa8-11e9-8541-7bd12f1f34de.gif)
 ### Result:
-![Result](https://user-images.githubusercontent.com/40535130/63119066-eab9ce80-bfa7-11e9-8624-317fe0733a3f.jpg)
+![Result](https://user-images.githubusercontent.com/40535130/63119612-4042ab00-bfa9-11e9-98be-c28019c45e86.jpg)
 
 ### Time Complexity: 
 - Average case performance: O(n).
