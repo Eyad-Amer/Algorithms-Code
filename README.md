@@ -23,6 +23,6 @@ This project has more then 30 algorithms code in java:
 
 ## Tortoise and Hare algorithm(Floyd's cycle-finding algorithm).
 From [Wikipedia](https://en.wikipedia.org/wiki/Cycle_detection): Tortoise and hare algorithm is a pointer algorithm that uses only two pointers, which move through the linked list at different speeds.
-The algorithm thus maintains two pointers into the given linked list, one (the tortoise) at xi, and the other (the hare) at x2i.
+The algorithm thus maintains two pointers into the given linked list, one (the tortoise) at x[i], and the other (the hare) at x2i.
 At each step of the algorithm, it increases i by one, moving the tortoise one step forward and the hare two steps forward in the linked list, and then compares the sequence values at these two pointers.
 
