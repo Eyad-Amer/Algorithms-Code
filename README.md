@@ -31,7 +31,6 @@ first we will prove that the rabbit and the turtle meet, thus prove that the lin
 The figure illustrates a list with a cycle. The cycle has a length of n and we are initially m steps away from the cycle. Also let's say that the meeting point is k steps away from the cycle beginning and tortoise and hare meets when tortoise has taken i total steps. (Hare would have taken 2i total steps by then).
 <br/>
 The following 2 conditions must hold: 
-<br/>
 <br/>  i = m + p * n + k
 <br/> 2i = m + q * n + k
 <br/><br/>
@@ -47,7 +46,6 @@ So by using simple speed, time and distance relation,
 Among m, n, k, p, q, the first two are properties of the given list. If we can show that there is at least one set of values for k, q, p that makes this equation true we show that the hypothesis is correct.
 <br/>
 One such solution set is as follows:
-<br/>
 <br/> p = 0
 <br/> q = m
 <br/> k = m n - m
