@@ -22,5 +22,5 @@ This project has more then 30 algorithms code in java:
 - Average case performance: O(n<sup>2</sup>).
 
 ## Tortoise and Hare algorithm(Floyd's cycle-finding algorithm).
-From Wikipedia(https://en.wikipedia.org/wiki/Cycle_detection):
+From [Wikipedia](https://en.wikipedia.org/wiki/Cycle_detection):
 
