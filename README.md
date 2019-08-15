@@ -52,6 +52,7 @@ Among m, n, k, p, q, the first two are properties of the given list. If we can s
 
 ### Example:
 - The tortoise and the hare will meet at point 6.
+<br/>
 ![ezgif-1-beef2379ac93](https://user-images.githubusercontent.com/40535130/63119456-e3df8b80-bfa8-11e9-8541-7bd12f1f34de.gif)
 ### Result:
 ![Result](https://user-images.githubusercontent.com/40535130/63119612-4042ab00-bfa9-11e9-98be-c28019c45e86.jpg)
