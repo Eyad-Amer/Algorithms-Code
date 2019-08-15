@@ -17,7 +17,7 @@
 
 ## Time Complexity:
 - best-case: O(n).
-- worst-case: O(n2).
+- worst-case: O(n<sup>2</sup>).
 
 
 ## Tortoise and Hare algorithm(Floyd's cycle-finding algorithm).
