@@ -34,7 +34,7 @@ The following 2 conditions must hold:
 <br/>
 <br/>  i = m + p * n + k
 <br/> 2i = m + q * n + k
-<br/>
+<br/><br/>
 The first one says that tortoise moves i steps and in these i steps it first gets to the cycle. Then it goes through the cycle p times for some positive number p. Finally it goes over k more nodes until it meets hare.
 A similar is true for hare. It moves 2i steps and in these 2i steps it first gets to the cycle. Then it goes through the cycle q times for some positive number q. Finally it goes over k more nodes until it meets tortoise.
 As hare travels with double the speed of tortoise, and time is constant for both when they reach the meeting point.
@@ -43,7 +43,7 @@ So by using simple speed, time and distance relation,
 <br/> 2 * ( m + p * n + k ) = m + q * n + k
 <br/> => 2m + 2pn + 2k = m + nq + k 
 <br/> =>  m + k = ( q - 2p ) * n
-<br/>
+<br/><br/>
 Among m, n, k, p, q, the first two are properties of the given list. If we can show that there is at least one set of values for k, q, p that makes this equation true we show that the hypothesis is correct.
 <br/>
 One such solution set is as follows:
