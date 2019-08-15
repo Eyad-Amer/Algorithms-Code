@@ -11,7 +11,7 @@ This project has more then 30 algorithms code in java:
 5. if we see 'W' sign - we're done.
 6. if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
 
-### example:
+### Example:
 ![ezgif-1-022155fca4c2](https://user-images.githubusercontent.com/40535130/63102084-16768d80-bf83-11e9-9eea-763cebab6df1.gif)
 ### Result:
 ![result](https://user-images.githubusercontent.com/40535130/63095001-bb3c9f00-bf72-11e9-8ed4-0d8c4f27bc23.jpg)
