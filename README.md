@@ -1,5 +1,6 @@
 # Algorithms Code - Java
-***This project has more then 30 algorithms code in java:***
+# All algorithms implemented in Java (for education)
+This project has more then 30 algorithms code in java:
 ## Parking Problem algorithm.
 - Description: The researcher must count how many cars are in a circular parking.
 - algorithm:
@@ -16,9 +17,9 @@
 ![result](https://user-images.githubusercontent.com/40535130/63095001-bb3c9f00-bf72-11e9-8ed4-0d8c4f27bc23.jpg)
 
 ### Time Complexity:
-- best-case: O(n).
-- worst-case: O(n<sup>2</sup>).
-
+- Worst case performance: O(n<sup>2</sup>).
+- Best case performance: O(n).
+- Average case performance: O(n<sup>2</sup>).
 
 ## Tortoise and Hare algorithm(Floyd's cycle-finding algorithm).
 
