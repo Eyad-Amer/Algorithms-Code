@@ -50,4 +50,5 @@ Among m, n, k, p, q, the first two are properties of the given list. If we can s
 <br/> q = m
 <br/> k = m n - m
 
-
+### Example:
+![ezgif-1-aab45a3427a4](https://user-images.githubusercontent.com/40535130/63118496-9bbf6980-bfa6-11e9-9bc6-ba600ac0eb12.gif)
