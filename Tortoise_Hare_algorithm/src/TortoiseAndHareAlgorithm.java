@@ -29,7 +29,7 @@ public class TortoiseAndHareAlgorithm {
 		System.out.println("Meeting point : " + meetingNode.getData());
 
 		// ** step 3 **
-		Node firstInLoop = toAndHa.startOfLoop(meetingNode);
+		Node firstInLoop = toAndHa.startOfLoop();
 		System.out.println();
 		System.out.println("Start of the loop : " + firstInLoop.getData());
 
@@ -80,9 +80,9 @@ public class TortoiseAndHareAlgorithm {
 	}
 
 	//**** Step 3 *****
-	public Node startOfLoop(Node meet) {
+	public Node startOfLoop() {
 		Node slow = circleLL.getHead();
-		Node fast = meet;
+		Node fast = meetingPointInLoop();
 		while(slow != fast) {
 			fast = fast.getNext();
 			if(slow == fast.getNext())
