@@ -15,10 +15,9 @@
 ## Result:
 ![result](https://user-images.githubusercontent.com/40535130/63095001-bb3c9f00-bf72-11e9-8ed4-0d8c4f27bc23.jpg)
 
-
-
-
-
+## Time Complexity:
+- best-case: O(n).
+- worst-case: O(n2).
 
 
 ## Tortoise and Hare algorithm(Floyd's cycle-finding algorithm).
