@@ -11,7 +11,7 @@
 6. if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
 
 ## example:
-![ezgif-1-137b6a86a05f](https://user-images.githubusercontent.com/40535130/63094414-ff2ea480-bf70-11e9-9444-da17572c8cb3.gif)
+![ezgif-1-022155fca4c2](https://user-images.githubusercontent.com/40535130/63102084-16768d80-bf83-11e9-9eea-763cebab6df1.gif)
 ## Result:
 ![result](https://user-images.githubusercontent.com/40535130/63095001-bb3c9f00-bf72-11e9-8ed4-0d8c4f27bc23.jpg)
 
