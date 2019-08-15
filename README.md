@@ -10,6 +10,8 @@
 5. if we see 'W' sign - we're done.
 6. if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
 
+![parking problem](https://user-images.githubusercontent.com/40535130/63093711-ea511180-bf6e-11e9-9a81-bfb3ca04a775.gif)
+
 
 
 
