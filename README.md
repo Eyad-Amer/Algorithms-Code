@@ -52,8 +52,6 @@ Among m, n, k, p, q, the first two are properties of the given list. If we can s
 
 ### Example: To find the meeting point.
 ![ezgif-1-beef2379ac93](https://user-images.githubusercontent.com/40535130/63119456-e3df8b80-bfa8-11e9-8541-7bd12f1f34de.gif)
-### Result:
-![Result](https://user-images.githubusercontent.com/40535130/63119612-4042ab00-bfa9-11e9-98be-c28019c45e86.jpg)
 
 ### Example: To find the loop starting point.
 ![ezgif-1-a87a6e6556e6](https://user-images.githubusercontent.com/40535130/63136119-2620c100-bfd9-11e9-9420-2f548bba8947.gif)
