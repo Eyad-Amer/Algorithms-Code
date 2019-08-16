@@ -55,6 +55,12 @@ Among m, n, k, p, q, the first two are properties of the given list. If we can s
 ### Result:
 ![Result](https://user-images.githubusercontent.com/40535130/63119612-4042ab00-bfa9-11e9-98be-c28019c45e86.jpg)
 
+### Example: To find the loop starting point.
+![ezgif-1-a87a6e6556e6](https://user-images.githubusercontent.com/40535130/63136119-2620c100-bfd9-11e9-9420-2f548bba8947.gif)
+
+### Example: To find the length of the cycle.
+
+
 ### Time Complexity: 
 - Average case performance: O(n).
 
