@@ -7,9 +7,9 @@ This project has more then 30 algorithms code in java:
 1. first car mark in the 'V' sign.
 2. continue with the circular parking until we find the 'V' sign and count the number of cars we passed.
 3. if we find the 'V' sign then we will delete it and write 'W' sign in its place.
-4. going back to the start point for a steps we counted.
-5. if we see 'W' sign - we're done.
-6. if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
+4. going back to the start point for a steps we counted. <br/>
+  4.1 if we see 'W' sign - we're done. <br/>
+  4.2 if we see a 'V' sign, we are progressing to the same number of steps we repeated. and go back to step 2.
 
 ### Example:
 ![ezgif-1-022155fca4c2](https://user-images.githubusercontent.com/40535130/63102084-16768d80-bf83-11e9-9eea-763cebab6df1.gif)
