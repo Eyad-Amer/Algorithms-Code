@@ -67,7 +67,7 @@ Description: Alice and Bob are playing a game. They are teammates, so they will 
 When the game starts, Alice and Bob go into separate soundproof rooms – they cannot communicate with each other in any way. They each flip a coin and note whether it came up Heads or Tails. (No funny business allowed – it has to be an honest coin flip and they have to tell the truth later about how it came out.) Now Alice writes down a guess as to the result of Bob’s coin flip; and Bob likewise writes down a guess as to Alice’s flip. <br/>
 If either or both of the written-down guesses turns out to be correct, then Alice and Bob both win as a team. But if both written-down guesses are wrong, then they both lose. <br/>
 The puzzle is this: Can you think of a strategy Alice and Bob can use that is guaranteed to win every time? <br/>
-To get you started, here is an example of a strategy that doesn’t work: Alice and Bob decide in advance that they will both guess Heads. This isn’t a guaranteed-winning strategy, because a quarter of the time they will both flip Tails so both guesses will be wrong. They’ll win 75% of the time, but that isn’t enough – they need to win every time.
+
 
 
 
